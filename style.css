@@ -1,0 +1,39 @@
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(25, 0, 255);
+    color: white;
+    border: 5px solid yellow;
+    padding: 20px;
+    margin: 50px;
+}
+nav {
+    background-color: #95fdcc;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #a1a1a1;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: rgb(93, 200, 168);
+}
